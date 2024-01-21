@@ -22,7 +22,7 @@ Before running the script, make sure you have the following prerequisites instal
 1. Run the script:
 
     ```bash
-    python your_script_name.py
+    python youtube_search.py
     ```
 
 2. Enter your search query when prompted.
